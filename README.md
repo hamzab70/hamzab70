@@ -1,7 +1,7 @@
 <h1 align="left" id="hamzab70-title">:wave: Hello there! I'm Hamza</h1>
-<h3 align="left">I do Cloud/SRE/Platform Engineering things</h3>
+<h3 align="left">I do Cloud/Infrastructure Engineering things</h3>
 
-- :office: &nbsp;I'm currently working at **[Zurich Insurance]**
+- :office: &nbsp;I'm currently working at **[Novanta]**
 - :seedling: &nbsp;I’m currently working on my **[dotfiles]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
@@ -67,9 +67,9 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#hamzab70-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" width="64" height="64" alt="RHEL" />
+        <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="64" height="64" alt="RHEL" />
       </a>
-      <br>RHEL
+      <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#hamzab70-tech">
@@ -113,7 +113,7 @@
 
 <!-- links -->
 
-[Zurich Insurance]: https://zurich.com "Zurich Insurance Group Home Page"
+[Novanta]: https://novanta.com "Novanta Group Home Page"
 [dotfiles]: https://github.com/hamzab70/.dotfiles "hamzab70/.dotfiles"
 [issues page]: https://github.com/hamzab70/hamzab70/issues "hamzab70/issues"
 [linkedin]: https://www.linkedin.com/in/hamza-boulaich/ "Hamza Boulaich LinkedIn"
